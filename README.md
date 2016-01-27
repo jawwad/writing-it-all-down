@@ -1,6 +1,5 @@
 As you’re figuring out this high level outline for your course, keep track of it in a spreadsheet that follows [this simple template](https://docs.google.com/spreadsheets/d/1k3KrNUMzR_5ewfi2HStrxxnJ3hBryxn8gJKMdIh8lrM/edit#gid=0&vpid=A1). 
 
-You'll notice that in this spreadsheet there is a column for learning objectives. Read further down to see how to include these to have a complete course outline. 
 
 Here are example of some completed outlines:
 
